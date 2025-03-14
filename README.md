@@ -1,4 +1,4 @@
-# Hyper DON Prediction
+# Hyperspectral DON Prediction
 
 ## Project Overview
 
